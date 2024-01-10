@@ -1,0 +1,53 @@
+Pokémon: 10
+2 Brute Bonnet PAR 123
+1 Morpeko PAR 121
+1 Bibarel PR-SW 188
+1 Roaring Moon ex PAR 124
+1 Roaring Moon ex PAR 251
+2 Bidoof CRZ 111 PH
+2 Alolan Raticate PGO 42 PH
+1 Radiant Greninja ASR 46
+2 Alolan Rattata PGO 41 PH
+1 Bibarel CRZ-GG 25
+
+Trainer: 27
+1 Switch EVO 88 PH
+1 Ancient Booster Energy Capsule SVALT 47
+2 Collapsed Stadium BRS 137 PH
+1 Ultra Ball DEX 102 PH
+1 Super Rod PAL 276
+1 Ultra Ball CRZ 146
+1 Nest Ball SUM 123
+2 Professor Sada's Vitality PAR 256
+1 Switch SLG 67 PH
+1 Dark Patch DEX 93 PH
+1 Nest Ball SVI 181
+1 Professor's Research SSH 201
+1 Pal Pad SVI 182 PH
+1 Professor's Research SVI 189
+1 Ultra Ball ROS 93 PH
+1 Nest Ball SUM 123 PH
+1 Boss's Orders PAL 172
+1 Professor's Research CPA 62
+1 Nest Ball SVI 181 PH
+3 Dark Patch LOR 216
+1 Ultra Ball SLG 68 PH
+2 Earthen Vessel PAR 163 PH
+1 Ancient Booster Energy Capsule PAR 159 PH
+1 Boss's Orders RCL 200
+2 Iono PAL 185 PH
+2 Path to the Peak CRE 148 PH
+1 Earthen Vessel PAR 163
+
+Energy: 9
+4 Basic {D} Energy BWALT 20
+1 Basic {D} Energy GEN 81 PH
+1 Double Turbo Energy BRS 151 PH
+1 Basic {D} Energy Energy 15 PH
+1 Basic {D} Energy EVO 97 PH
+1 Basic {D} Energy SVE 7 PH
+1 Reversal Energy PAL 192 PH
+1 Basic {D} Energy CRZ 158
+1 Basic {D} Energy Energy 33 PH
+
+Total Cards: 60
